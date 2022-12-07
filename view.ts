@@ -42,4 +42,4 @@ export const messageClasses = {
 export const index = {
     firstIndex: 280,
     lastIndex: 300,
-}
+};
